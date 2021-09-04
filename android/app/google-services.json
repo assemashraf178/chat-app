@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "870724702240",
+    "project_id": "general-chat-app-c3ad7",
+    "storage_bucket": "general-chat-app-c3ad7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870724702240:android:2a6bbdf23dbc5acb8b6c45",
+        "android_client_info": {
+          "package_name": "com.asemapps.chat.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870724702240-asflrif568behie57npqlr12rt37vv1f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.asemapps.chat.chat_app",
+            "certificate_hash": "06aa86d712e2e5eeb342a6badb097f139ccfddce"
+          }
+        },
+        {
+          "client_id": "870724702240-r06t13vnkkhnltl03bj0np2buegk0k00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxWab7uHtrtfqwuHJxnvzG_tnBrHG_SYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870724702240-r06t13vnkkhnltl03bj0np2buegk0k00.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
